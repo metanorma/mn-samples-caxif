@@ -1,0 +1,33 @@
+= MBx-IF sample documents for Metanorma
+
+== Purpose
+
+This repository contains MBx-IF published documents as reference for 
+implementation of the MBx-IF structure/layout in Metanorma.
+
+There are mainly these types of documents:
+
+* General Guidelines
+* Recommended Practices
+* Test Suites
+
+In CAx-IF there are the following publishing groups:
+
+* MBx-IF: MBx Interoperability Forum
+* CAx-IF: CAx Interoperability Forum
+* EWIS-IF: EWIS Interoperability Forum
+* CAE-IF: CAE Implementor Forum
+* PDM-IF: PDM Implementor Forum
+* JT-IF: JT Implementor Forum
+
+The documents can be jointly published by more than one group.
+The following pairs have been observed.
+
+* CAx-IF / JT-IF
+* CAx-IF / PDM-IF
+* MBx-IF / JT-IF
+
+== License
+
+Copyright respective owners.
+
