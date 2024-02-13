@@ -1,0 +1,50 @@
+= Test Suite for the CAx Interoperability Forum Round 53J
+:doctype: test-suite
+:publishing-group: cax-if
+:round: 53J
+:version: 1.0
+:revdate: 2024-01-16
+:date: 2023-09-01
+:date_2: 2024-03-01
+:toclevels: 2
+:toc-figures:
+:copyright-holder: CAx Interoperability Forum
+:mn-document-class: ogc
+:language: en
+:imagesdir: images
+:mn-output-extensions: xml,html,pdf,rxl
+
+[.preface,coverpage=true]
+== Contacts
+
+[%unnumbered,options=header,cols=2]
+|===
+a| Jochen Boy +
+PROSTEP AG +
+jochen.boy@prostep.com
+a| Phil Rosché +
+ACCR, LLC. +
+phil.rosche@accr-llc.com
+a| Rosemary Astheimer +
+NIST +
+rosemary.astheimer@nist.gov
+a| Robert Lipman +
+NIST +
+robert.lipman@nist.gov
+|===
+
+[.preface,beforeclauses=true]
+== Document History
+
+[%unnumbered,options=header]
+|===
+| Version | Date | Change
+| 1.0 | 2024-01-16 | Initial Release
+| | |
+|===
+
+include::sections/01-intro.adoc[]
+
+include::sections/02-synthetic-test.adoc[]
+
+include::sections/aa-nist-models.adoc[]
