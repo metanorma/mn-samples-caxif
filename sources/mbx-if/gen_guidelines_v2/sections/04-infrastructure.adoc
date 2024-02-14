@@ -28,14 +28,14 @@ touch with the CAxIF facilitators:
 * Jochen Boy (jochen.bpy@prostep.com)
 * Phil Rosché (phil.rosche@accr-llc.com)
 
-Once your account has been created, you can use the “Reset Password” link on the 
+Once your account has been created, you can use the "Reset Password" link on the 
 login page to set up your credentials and activate your account.
 
 [[sec-4.1.2]]
 ==== Using CAESAR
 
-Once you’re logged in to CAESAR, there is a comprehensive User Guide as well as a 
-Frequently Asked Questions section available in the “Documentation” section of the 
+Once you're logged in to CAESAR, there is a comprehensive User Guide as well as a 
+Frequently Asked Questions section available in the "Documentation" section of the 
 Main Menu:
 
 [[fig4]]
@@ -79,7 +79,7 @@ They will create an account for you if needed. You will the receive an email wit
 link to set your initial password, thus activating your account.
 
 The facilitators will also assign you to the correct user groups within Nextcloud, 
-which will enable you to access that group’s folders.
+which will enable you to access that group's folders.
 
 [[sec-4.2.2]]
 ==== Using Nextcloud
@@ -88,12 +88,12 @@ Though Nextcloud does support direct integration and synchronization with Window
 Explorer via WebDAV, it is recommended to use the browser interface to avoid 
 interference with other installations.
 
-Comprehensive documentation on how to use Nextcloud is available from the “Help” 
+Comprehensive documentation on how to use Nextcloud is available from the "Help" 
 section in the personal menu, which you open by clicking on your avatar in the top 
 right-hand corner of the Nextcloud web interface.
 
 It is possible to link your Nextcloud account with your CAESAR account. Follow the 
-instructions given on the “App Integration” tab of your CAESAR user profile to do so. 
+instructions given on the "App Integration" tab of your CAESAR user profile to do so. 
 This will enable you to browse and download content on Nextcloud from directly within 
 CAESAR without having to switch between applications.
 
@@ -112,7 +112,7 @@ that they can follow along with current discussions.
 ==== Registration
 
 If you do not have a Redmine account yet, you can create one yourself by clicking on 
-the “Register” link in the top right-hand corner of the Redmine homepage. Afterwards, 
+the "Register" link in the top right-hand corner of the Redmine homepage. Afterwards, 
 please get in touch with the respective facilitators for the User Group of your 
 domain to be added to that group:
 
@@ -130,11 +130,11 @@ domain to be added to that group:
 [[sec-4.3.2]]
 ==== Using Redmine
 
-A user Guide is available by clicking on “Help” on the left side at the very top of 
+A user Guide is available by clicking on "Help" on the left side at the very top of 
 the Redmine web interface.
 
 It is possible to link your Redmine account with your CAESAR account. Follow the 
-instructions given on the “App Integration” tab of your CAESAR user profile to do so. 
+instructions given on the "App Integration" tab of your CAESAR user profile to do so. 
 This will allow you to see information about user stories linked to test cases or 
 technical issues directly within CAESAR without the need to switch between 
 applications.

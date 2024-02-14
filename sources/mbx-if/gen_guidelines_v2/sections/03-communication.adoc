@@ -78,7 +78,7 @@ Round Review and a joint meeting between the Implementor Group and User Group.
 
 === Conference Calls
 
-Regular conference calls are set up throughout the year to keep track of each group’s 
+Regular conference calls are set up throughout the year to keep track of each group's 
 progress. The meeting notices will be sent out by the respective facilitators.
 
 These calls use established conferencing platforms, such as Microsoft Teams, Google 

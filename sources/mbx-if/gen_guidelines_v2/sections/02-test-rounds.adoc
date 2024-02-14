@@ -9,7 +9,7 @@ domains. In general, a test campaign is:
 * Followed by a test review meeting. This typically covers:
 ** Detailed discussion of the results
 ** Discussion of technical and standardization issues
-** Definition of the following round’s scope and schedule
+** Definition of the following round's scope and schedule
 ** Joint meeting with users
 ** Joint meeting with related project teams
 
@@ -24,7 +24,7 @@ campaign encompasses:
 * Preprocessing
 * Transmission of files and related statistics
 * Checking files for syntax, structure, and semantics
-* Distribution of “checked” files
+* Distribution of "checked" files
 * Post-processing
 * Transmission of results for comparison
 * Discussion of issues
@@ -74,7 +74,7 @@ assembly test case AS1 conforming to AP242, the proper file name would be:
 [align=center]
 *as1-in-242.stp*
 
-Either the “*.stp” or “*.step” file extensions are permissible, but “*.stp” is 
+Either the "*.stp" or "*.step" file extensions are permissible, but "*.stp" is 
 recommended.
 
 ==== For native and target Models
@@ -94,7 +94,7 @@ convention for these ZIP files is:
 --
 ccc = test case identifier per testing instructions +
 nnn = vendor code of the system that created the models +
-ttt = use 'nat' for native models, ‘tgt’ for target models.
+ttt = use 'nat' for native models, 'tgt' for target models.
 --
 
 As an example, the target models for the Production Models imported into Dassault 
@@ -118,12 +118,12 @@ for additional information, the following naming convention is suggested:
 --
 ccc = test case identifier per testing instructions +
 nnn = vendor code of the system that created the native model / STEP file +
-ttt = 'nat' for native models, ‘tgt’ for target models, or target system’s code +
+ttt = 'nat' for native models, 'tgt' for target models, or target system's code +
 ext = extension according to file type
 --
 
 So, for instance for a PNG-formatted screenshot showing the import of a PTC Creo 
-production model into Datakit’s CrossCad for SolidWorks, the proper file name would be:
+production model into Datakit's CrossCad for SolidWorks, the proper file name would be:
 
 [align=center]
 *pm20-cr-dw.png*
@@ -182,8 +182,8 @@ h| sw | SolidWorks | Dassault Systèmes
 
 *[underline]#Please note#* that for historic reasons,
 
-* Siemens NX is occasionally listed as “UG” or “Unigraphics”
-* PTC Creo is occasionally still referred to as “Pro/E” or “Pro/Engineer”
+* Siemens NX is occasionally listed as "UG" or "Unigraphics"
+* PTC Creo is occasionally still referred to as "Pro/E" or "Pro/Engineer"
 
 *Deprecated Codes*
 

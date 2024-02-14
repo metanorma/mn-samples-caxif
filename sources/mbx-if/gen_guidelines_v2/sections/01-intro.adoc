@@ -31,7 +31,7 @@ rounds.
 .MBx-IF Way of Working between User Groups and Implementor Groups
 image::img02.png[]
 
-The goals of the MBx Interoperability Forum’s Implementor Groups are to:
+The goals of the MBx Interoperability Forum's Implementor Groups are to:
 
 * Implement functionality for today's needs
 * Identify functionality for tomorrow's needs
