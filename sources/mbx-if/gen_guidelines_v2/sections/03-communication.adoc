@@ -1,25 +1,25 @@
 == Communication
 
-The MBx-IF provides various of means of communication, in order to keep its members 
+The MBx-IF provides various of means of communication, in order to keep its members
 and associated working groups up to date on current testing activities and agreements.
 
 [[sec-3.1]]
 === Web Sites
 
-The MBx Interoperability Forum maintains an internet homepage, which is mirrored at 
+The MBx Interoperability Forum maintains an internet homepage, which is mirrored at
 three URLs:
 
 * https://www.mbx-if.de/
 * https://www.mbx-if.eu/
 * https://www.mbx-if.org/
 
-The contents at all locations are identical. Only in the context of updates it may 
-happen that the sites are out of sync temporarily, depending on the availability of 
-the respective web master. These pages cover general information about the MBx-IF, as 
-well as all public information on the CAx, CAE and EWIS domains. This includes 
+The contents at all locations are identical. Only in the context of updates it may
+happen that the sites are out of sync temporarily, depending on the availability of
+the respective web master. These pages cover general information about the MBx-IF, as
+well as all public information on the CAx, CAE and EWIS domains. This includes
 Recommended Practices, Test Suite documents, and information on implementation support.
 
-The PDM has a separate homepage, as it joined the MBx-IF at a later point in time. It 
+The PDM has a separate homepage, as it joined the MBx-IF at a later point in time. It
 can be found at:
 
 * http://www.pdm-if.org/
@@ -34,9 +34,9 @@ Note that there currently are no mailing lists for the CAE and EWIS domains.
 
 ==== CAx-IF
 
-* cax-contact@lists.purdue.edu -- The AFNeT, PDES, Inc. and prostep ivip facilitators 
+* cax-contact@lists.purdue.edu -- The AFNeT, PDES, Inc. and prostep ivip facilitators
 of the CAx-IF
-* cax-current-round@lists.purdue.edu -- Closed mailing list for the active 
+* cax-current-round@lists.purdue.edu -- Closed mailing list for the active
 participants of the current round of CAx testing.
 * team-users-cax-if@lists.afnet.fr -- Closed mailing list for the CAx-IF User Group
 
@@ -47,8 +47,8 @@ participants of the current round of CAx testing.
 
 === Meetings
 
-The various teams within the MBx-IF conduct multiple meetings per year. All of these 
-meetings are set up as hybrid meetings, i.e., presence in person on site is always 
+The various teams within the MBx-IF conduct multiple meetings per year. All of these
+meetings are set up as hybrid meetings, i.e., presence in person on site is always
 preferred, but if not possible, remote attendance will be possible.
 
 ==== CAx-IF & EWIS-IF
@@ -72,14 +72,14 @@ There are usually four milestone meetings per year, generally following this pat
 
 ==== PDM-IF
 
-The PDM-IF usually meets face-to-face twice per year, in June and December. These 
-meetings alternate between France and Germany. They are mainly comprised of Test 
+The PDM-IF usually meets face-to-face twice per year, in June and December. These
+meetings alternate between France and Germany. They are mainly comprised of Test
 Round Review and a joint meeting between the Implementor Group and User Group.
 
 === Conference Calls
 
-Regular conference calls are set up throughout the year to keep track of each group's 
+Regular conference calls are set up throughout the year to keep track of each group's
 progress. The meeting notices will be sent out by the respective facilitators.
 
-These calls use established conferencing platforms, such as Microsoft Teams, Google 
+These calls use established conferencing platforms, such as Microsoft Teams, Google
 Meet, or WebEx.
