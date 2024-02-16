@@ -1,4 +1,5 @@
 = Test Suite for the CAx Interoperability Forum Round 53J
+:customize: caxif_metanorma.yml
 :doctype: test-suite
 :technical-committee: cax-if
 :round: 53J
