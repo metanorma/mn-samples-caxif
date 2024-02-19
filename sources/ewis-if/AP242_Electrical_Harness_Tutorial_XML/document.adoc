@@ -6,7 +6,7 @@
 :status: draft
 :iteration: 2
 :issued-date: 2020-11-16
-:status: Updated for AP242 IS Second Edition 2020 & upcoming Amendment 2020/2021
+:status-note: Updated for AP242 IS Second Edition 2020 & upcoming Amendment 2020/2021
 :toclevels: 3
 :copyright-holder: LOTAR International 2020
 :mn-document-class: nist
@@ -31,7 +31,7 @@
 :address_3: 171 Crossroads Parkway
 :region_3: Savannah, GA
 :postcode_3: 31407
-:country: U.S.A.
+:country_3: U.S.A.
 :email_3: dan.ganser@gulfstream.com
 :link: https://www.cax-if.org/ewis/ewis_introduction.php
 :link_2: http://www.lotar-international.org/
