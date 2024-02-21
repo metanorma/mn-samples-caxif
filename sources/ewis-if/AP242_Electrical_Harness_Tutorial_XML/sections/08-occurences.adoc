@@ -74,7 +74,7 @@ general.
 Clause 5.6 provides a detailed example of a hierarchical assembly structure with
 SpecifiedOccurrence.
 
-[ATTENTION]
+[CAUTION,type=attention]
 ====
 Do not use the types AssemblyViewRelationship, NextAssemblyViewUsage and
 PromissoryAssemblyViewUsage for electrical harness. These types had been introduced

@@ -37,7 +37,7 @@ _NextAssemblyOccurrenceUsage_ refers to the
 _GeometricRepresentationRelationshipWithPlacementTransformation_ for a given
 _SingleOccurrence_ within the assembly.
 
-[IMPORTANT]
+[CAUTION,type=""]
 ====
 A _GeometricRepresentationRelationshipWithPlacementTransformation_ that is used as
 described here must have the _Definitional_ attribute set to TRUE as the
@@ -418,14 +418,14 @@ the topological edges, paths and vertices of the harness model. Also there are
 external geometric models for the rigid components. +
 multi branchable
 
-[RECOMMENDATION]
+[CAUTION,type=recommendation]
 ====
 To use anchors in p21 files for all the sources and targets (curves,
 cartesian_points, axis_placements). This capability is available from ISO
 10303-21:2016 / edition3 on.
 ====
 
-[RECOMMENDATION]
+[CAUTION,type=recommendation]
 ====
 For the external 2D or 3D representation of the centre line curves for the harness
 segments it is best to use ExternalGeometricallyBoundedWireframeShapeRepresentation

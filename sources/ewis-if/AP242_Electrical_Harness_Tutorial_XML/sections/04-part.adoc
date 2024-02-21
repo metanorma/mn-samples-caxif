@@ -118,7 +118,7 @@ for safety purposes;
 for service purposes;
 * *tool*: the part plays the role of a tool.
 
-[RECOMMENDATION]
+[CAUTION,type=recommendation]
 ====
 For the purpose of an electrical wire harness design, most Parts
 require a part category of either "**discrete**" or "**raw material by length**". In
@@ -133,7 +133,7 @@ Here the pre-defined categories for electrical harness and other electrical
 applications. Most of these categories are standardized by IEC in the Electropedia:
 http://www.electropedia.org/
 
-[IMPORTANT]
+[CAUTION,type=""]
 ====
 Preprocessors are required to provide the following part categories if they apply.
 This is needed so that a post-processor can be configures to act properly on the on

@@ -23,14 +23,14 @@ assembly design an example of a _ViewContext_ with the _ApplicationDomain_
 clause defines the values for _ApplicationDomain_ and _LifeCycleStage_ to be used for
 the purpose of electrical wire harness.
 
-[IMPORTANT]
+[CAUTION,type=""]
 ====
 For the design of an electrical harness the _ViewContexts_ of the harness view itself
 and the ones of all assembled underlying _Part/PartVersion/PartViews_ shall have the
 value "design" for the _LifeCycleStage_ attribute.
 ====
 
-[IMPORTANT]
+[CAUTION,type=""]
 ====
 For the purpose of the design of an electrical harness the _ApplicationDomain_
 "**electrical**" shall be used for all _PartViews_ that define elements relevant for

@@ -11,7 +11,7 @@ only a few characteristics needed for market presentation. There are no design
 details. However for variant products _Specifications_ can be used to characterize
 the high level (alternative) options that are available for a _ProductClass_.
 
-[RECOMMENDATION]
+[CAUTION,type=recommendation]
 ====
 Use subtype _ProductClass_ always. On the MIM/IR level this is
 required to have any property values defined for this.

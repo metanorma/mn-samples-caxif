@@ -90,7 +90,7 @@ these constraint the subtype _EdgeBoundedCurveWithLength_ has been introduced. W
 a SubEdge is used, the ParentEdge must either be another SubEdge (a "bigger" one) or
 an _EdgeBoundedCurveWithLength_..
 
-[IMPORTANT]
+[CAUTION,type=""]
 ====
 When using geometric entities such as _Point_ or _Curve_ within a _Representation_
 the use of a _RepresentationContext_ that is a _GeometricCoordinateSpace_ is
@@ -395,7 +395,7 @@ follow and the NextInstance in the chain of instances. For _NextInstanceForward_
 _AttributeName_ specified an attribute of the current instance, while for
 _NextInstanceInverse_, _AttributeName_ specifies an attribute of the _NextInstance_.
 
-[IMPORTANT]
+[CAUTION,type=""]
 ====
 There had been a change from AP242 edition 1 to edition 2 on the attributes of
 _DigitalFile_. With edition 2 the attribute _FileLocation_ was added (in green
