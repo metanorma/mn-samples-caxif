@@ -27,7 +27,7 @@ below, zones 1 and 2 are empty as indicated by the first two occurrences of \w\w
 |===
 a| [%unnumbered,height=70px]
 image::img53.png[]
-a| SRFMRR**\w\w\w**TURN**\w**0.8 / Ra 3.2\n&#x23CA; 2.5 / Wt 0.8
+a| SRFMRR[css color:red]##\w\w\w##TURN[css color:red]##\w##0.8 / Ra 3.2\n&#x23CA; 2.5 / Wt 0.8
 
 _Zones 1 and 2 are intentionally blank._
 |===
@@ -48,13 +48,13 @@ zones 3 and 4 of the symbol are empty.
 |===
 a| [%unnumbered,height=50px]
 image::img54.png[]
-| **SRF**
+| [css color:red]#SRF#
 a| [%unnumbered,height=50px]
 image::img55.png[]
-| **SRF**
+| [css color:red]#SRF#
 a| [%unnumbered,height=70px]
 image::img56.png[]
-| **SRF**\w1.6\n0.8\w\w\w0.8
+| [css color:red]##SRF##\w1.6\n0.8\w\w\w0.8
 |===
 
 [[sec-7.3]]
@@ -81,10 +81,10 @@ listed below.
 |===
 a| [%unnumbered,height=40px]
 image::img58.png[]
-| SRF**APA**
+| SRF[css color:red]##APA##
 a| [%unnumbered,height=40px]
 image::img59.png[]
-| SRF**APA**\w\w\w08./Ra 1.4
+| SRF[css color:red]##APA##\w\w\w08./Ra 1.4
 |===
 
 [[sec-7.4.2]]
@@ -94,10 +94,10 @@ image::img59.png[]
 |===
 a| [%unnumbered,height=40px]
 image::img60.png[]
-| SRF**MRR**
+| SRF[css color:red]##MRR##
 a| [%unnumbered,height=40px]
 image::img61.png[]
-| SRF**MRR**\w\w\w\0.8 / Ra 1.6 / n=3
+| SRF[css color:red]##MRR##\w\w\w\0.8 / Ra 1.6 / n=3
 |===
 
 [[sec-7.4.3]]
@@ -107,10 +107,10 @@ image::img61.png[]
 |===
 a| [%unnumbered,height=40px]
 image::img62.png[]
-| SRF**NMR**
+| SRF[css color:red]##NMR##
 a| [%unnumbered,height=40px]
 image::img63.png[]
-| SRF**NMR**\w\w\w\2.5 / Ra 6.4
+| SRF[css color:red]##NMR##\w\w\w\2.5 / Ra 6.4
 |===
 
 [[sec-7.5]]
@@ -129,7 +129,7 @@ Suffix to the process indicator on a surface texture annotation callout.
 |===
 a| [%unnumbered,height=70px]
 image::img64.png[]
-| SRFAPA**A**\w1.6\n0.8\w\w\w0.8
+| SRFAPA[css color:red]##A##\w1.6\n0.8\w\w\w0.8
 |===
 
 [[sec-7.5.2]]
@@ -143,7 +143,7 @@ implies that it is not all around.
 |===
 a| [%unnumbered,height=70px]
 image::img65.png[]
-| SRFMRR**N**\w1.6\n0.8\w\w0.8
+| SRFMRR[css color:red]##N##\w1.6\n0.8\w\w0.8
 |===
 
 [[sec-7.5.3]]
@@ -153,7 +153,7 @@ image::img65.png[]
 |===
 a| [%unnumbered,height=50px]
 image::img66.png[]
-| SRFAPA**AOS**\w\w\wTXT\u0.8/Ra 1.6\u
+| SRFAPA[css color:red]##AOS##\w\w\wTXT\u0.8/Ra 1.6\u
 
 a| [%unnumbered,height=50px]
 image::img67.png[]
@@ -178,35 +178,35 @@ Lay Symbols and Examples:
 | Angular (X)
 a| [%unnumbered,height=50px]
 image::img68.png[]
-| SRFAPAN\w\w\w\w\n**X**
+| SRFAPAN\w\w\w\w\n[css color:red]##X##
 
 | Circular (&#x200c;C)
 a| [%unnumbered,height=50px]
 image::img69.png[]
-| SRF\w\w\w\w\n**C**
+| SRF\w\w\w\w\n[css color:red]##C##
 
 | Multi-directional (M)
 a| [%unnumbered,height=50px]
 image::img70.png[]
-| SRF\w\w\w\w\n**M**
+| SRF\w\w\w\w\n[css color:red]##M##
 
 | Parallel (PRL)
 a| [%unnumbered,height=50px]
 image::img71.png[]
-| SRF\w\w\w\w\n**PRL**
+| SRF\w\w\w\w\n[css color:red]##PRL##
 
 | Particulate. (P)
 a| [%unnumbered,height=50px]
 image::img72.png[]
-| SRF\w\w\w\w\n**P**
+| SRF\w\w\w\w\n[css color:red]##P##
 
 | Perpendicular (PERP)
 a| [%unnumbered,height=50px]
 image::img73.png[]
-| SRF\w\w\w\w\n**PERP**
+| SRF\w\w\w\w\n[css color:red]##PERP##
 
 | Radial (&#x200c;R)
 a| [%unnumbered,height=50px]
 image::img74.png[]
-| SRF\w\w\w\w\n**R**
+| SRF\w\w\w\w\n[css color:red]##R##
 |===

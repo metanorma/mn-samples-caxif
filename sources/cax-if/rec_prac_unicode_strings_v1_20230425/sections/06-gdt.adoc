@@ -15,11 +15,11 @@ its contents.
 |===
 a| [%unnumbered,height=30px]
 image::img39.png[]
-| **DIM**\w25.4&#xB1;0.1
+| [css color:red]##DIM##\w25.4&#xB1;0.1
 
 a| [%unnumbered,height=30px]
 image::img40.png[]
-| TXT\w6X\w**DIM**&#xD8;1.0
+| TXT\w6X\w[css color:red]##DIM##&#xD8;1.0
 |===
 
 [[sec-6.2]]
@@ -32,7 +32,7 @@ denote the beginning of the next compartment of the feature control frame.
 |===
 a| [%unnumbered,height=40px]
 image::img41.png[]
-| **FCF**\w&#x2316;\w0.1\wA\wB\wC
+| [css color:red]##FCF##\w&#x2316;\w0.1\wA\wB\wC
 
 a| [%unnumbered,height=100px]
 image::img42.png[]
@@ -40,16 +40,16 @@ a| _There are three ways to represent a composite FCF._
 
 _As two segments:_
 
-**FCF**\w&#x2316;\w&#x2300;0.8 &#x24C2;\wD\wE\wF\n\w&#x2316;\w&#x24C2;0.25&#x24C2;\wD\wE
+[css color:red]##FCF##\w&#x2316;\w&#x2300;0.8 &#x24C2;\wD\wE\wF\n\w&#x2316;\w&#x24C2;0.25&#x24C2;\wD\wE
 
 _Concatenated:_
 
-**FCF**\w&#x2316;\w&#x2300;0.8&#x24C2;\wD\wE\wF**\x\**w&#x2316;\w&#x24C2;0.25&#x24C2;\wD\wE
+[css color:red]##FCF##\w&#x2316;\w&#x2300;0.8&#x24C2;\wD\wE\wF[css color:red]##\x\##w&#x2316;\w&#x24C2;0.25&#x24C2;\wD\wE
 
 _As two individual feature control frames_
 
-**FCF**\w&#x2316;\w&#x2300;0.8&#x24C2;\wD\wE\wF
-**FCF**\w&#x2316;\w&#x2300;0.25&#x24C2;\wD\wE
+[css color:red]##FCF##\w&#x2316;\w&#x2300;0.8&#x24C2;\wD\wE\wF
+[css color:red]##FCF##\w&#x2316;\w&#x2300;0.25&#x24C2;\wD\wE
 |===
 
 [[sec-6.3]]
@@ -61,7 +61,7 @@ Denotes a datum feature.
 |===
 a| [%unnumbered,height=50px]
 image::img43.png[]
-| **DTM**\wA
+| [css color:red]##DTM##\wA
 |===
 
 [[sec-6.4]]
@@ -73,10 +73,10 @@ Datum targets and moveable datum targets are represented as TGT.
 |===
 a| [%unnumbered,height=50px]
 image::img44.png[]
-| **TGT**\w&#xD8;25\nA1
+| [css color:red]##TGT##\w&#xD8;25\nA1
 a| [%unnumbered,height=80px]
 image::img45.png[]
-a| **TGT**\w25 X 25\nA1
+a| [css color:red]##TGT##\w25 X 25\nA1
 
 NOTE: Moveable indicator not captured
 |===
@@ -90,7 +90,7 @@ Prefix to a DIM or FCF keyword.
 |===
 a| [%unnumbered,height=70px]
 image::img46.png[]
-| **AAS**\w\FCF\w&#x2313;\0.05\wA\wB
+| [css color:red]##AAS##\w\FCF\w&#x2313;\0.05\wA\wB
 |===
 
 [[sec-6.6]]
@@ -102,7 +102,7 @@ Prefix to a DIM or FCF designator.
 |===
 a| [%unnumbered,height=70px]
 image::img47.png[]
-| **AOS**\w\FCF\w&#x2313;\w0.05\wA\wB
+| [css color:red]##AOS##\w\FCF\w&#x2313;\w0.05\wA\wB
 |===
 
 [[sec-6.7]]
@@ -114,10 +114,10 @@ Thread information will be treated as text.
 |===
 a| [%unnumbered,height=70px]
 image::img48.png[]
-| **TXT**\w0.250-20 UNC-3B
+| [css color:red]##TXT##\w0.250-20 UNC-3B
 a| [%unnumbered,height=70px]
 image::img49.png[]
-| **TXT**\wM6X1 - 5H6H -- LH\n\&#x21A7;10
+| [css color:red]##TXT##\wM6X1 - 5H6H -- LH\n\&#x21A7;10
 |===
 
 [[sec-6.8]]
@@ -147,5 +147,5 @@ Spotface will be identified by the characters "SF".
 |===
 a| [%unnumbered,height=70px]
 image::img51.png[]
-| DIM\w4X&#xD8;8\n**SF**&#xD8;20 R2
+| DIM\w4X&#xD8;8\n[css color:red]##SF##&#xD8;20 R2
 |===

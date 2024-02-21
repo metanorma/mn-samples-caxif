@@ -26,7 +26,7 @@ followed by another occurrence of \w.
 |===
 a| [%unnumbered,height=100px]
 image::img76.png[]
-a| WLD**\w\w**&#x25AD;**\w**&#x2304;\n3\/16\n45°**\w**3G
+a| WLD[css color:red]##\w\w##&#x25AD;[css color:red]##\w##&#x2304;\n3\/16\n45°[css color:red]##\w##3G
 
 _Zone 1 is intentionally empty._
 |===
@@ -60,7 +60,7 @@ information is located in which zone on the symbol.
 |===
 a| [%unnumbered,height=70px]
 image::img78.png[]
-a| **WLD**\w\w2\w3\w4
+a| [css color:red]##WLD##\w\w2\w3\w4
 
 _Zone 1 is empty in this example._
 |===
@@ -74,14 +74,14 @@ Suffix to the WLD designator indicates a weld make outside of the workshop.
 |===
 a| [%unnumbered,height=70px]
 image::img79.png[]
-a| WLD**F**NN\w\w\w&#x2A57;
+a| WLD[css color:red]##F##NN\w\w\w&#x2A57;
 
-_Weld, *Flag*, Not All-Around, Not Reversed_
+_Weld, [css color:red]##Flag##, Not All-Around, Not Reversed_
 a| [%unnumbered,height=70px]
 image::img80.png[]
-a| WLD**N**NN\w\w\w&#x2A57;
+a| WLD[css color:red]##N##NN\w\w\w&#x2A57;
 
-_Weld, *No Flag*, Not All-Around, Not Reversed_
+_Weld, [css color:red]##No Flag##, Not All-Around, Not Reversed_
 |===
 
 [[sec-8.5]]
@@ -98,15 +98,15 @@ Suffix to the Flag indicator on a Weld annotation callout.
 |===
 a| [%unnumbered,height=70px]
 image::img81.png[]
-a| WLDF**A**N\w\w\&#x25FA;\TXT1/2"
+a| WLDF[css color:red]##A##N\w\w\&#x25FA;\TXT1/2"
 
-_Weld, Flag, *All-Around*, Not Reversed_
+_Weld, Flag, [css color:red]##All-Around##, Not Reversed_
 
 a| [%unnumbered,height=70px]
 image::img82.png[]
-a| WLDF**N**N\w\w\&#x25FA;\TXT1/2"
+a| WLDF[css color:red]##N##N\w\w\&#x25FA;\TXT1/2"
 
-_Weld, Flag, *Not All-Around*, Not Reversed_
+_Weld, Flag, [css color:red]##Not All-Around##, Not Reversed_
 |===
 
 [[sec-8.5.2]]
@@ -126,14 +126,14 @@ other side.
 |===
 a| [%unnumbered,height=100px]
 image::img83.png[]
-a| WLDNN**R**\w\w\w&#x2A57;
+a| WLDNN[css color:red]##R##\w\w\w&#x2A57;
 
-_Weld, No Flag, Not All-Around, **Reversed**_
+_Weld, No Flag, Not All-Around, [css color:red]##Reversed##_
 a| [%unnumbered,height=70px]
 image::img84.png[]
-a| WLDNN**N**\w\w\w&#x2A57; +
+a| WLDNN[css color:red]##N##\w\w\w&#x2A57; +
 
-_Weld, No Flag, Not All-Around, **Not Reversed**_
+_Weld, No Flag, Not All-Around, [css color:red]##Not Reversed##_
 |===
 
 [[sec-8.7]]
@@ -148,19 +148,19 @@ conveyed defined by the zone the symbol is define in.
 |===
 a| [%unnumbered,height=70px]
 image::img85.png[]
-| WLDNNN\w\w2°\n**&#x25E0;**
+| WLDNNN\w\w2°\n[css color:red]##&#x25E0;##
 
 a| [%unnumbered,height=70px]
 image::img86.png[]
-| WLDNNN\w\w\w3°\n**&#x25E0;**
+| WLDNNN\w\w\w3°\n[css color:red]##&#x25E0;##
 
 a| [%unnumbered,height=70px]
 image::img87.png[]
-| WLD\w\w**&#x2A57;**2
+| WLD\w\w[css color:red]##&#x2A57;##2
 
 a| [%unnumbered,height=70px]
 image::img88.png[]
-| WLD\w\w\w**&#x2A57;**3
+| WLD\w\w\w[css color:red]##&#x2A57;##3
 |===
 
 [[sec-8.8]]

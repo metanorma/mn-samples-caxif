@@ -16,13 +16,13 @@ the dimension information, the TXT indicator should be placed in front of it.
 |===
 a| [%unnumbered,height=50px]
 image::img27.png[]
-a| DIM\w**(**&#xD8;1.000&#xB1;.005**)**
+a| DIM\w[css color:red]##(##&#xD8;1.000&#xB1;.005[css color:red]##)##
 
 _Reference dimension with tolerance_
 
 a| [%unnumbered,height=80px]
 image::img28.png[]
-a| DIM\w30 f7 **(**\u-0,020\n-0,041\u**)**
+a| DIM\w30 f7 [css color:red]##(##\u-0,020\n-0,041\u[css color:red]##)##
 |===
 
 [[sec-5.2]]
@@ -46,7 +46,7 @@ https://www.cax-if.eu/cax/cax_recommPractice.php[CAx-IF Recommended Practice for
 |===
 a| [%unnumbered,height=30px]
 image::img29.png[]
-| FCF\u&#x2313;\u4.5**&#x24CA;**1.5\uA\uB**&#x24C2;**\uC**&#x24C2;**
+| FCF\u&#x2313;\u4.5[css color:red]##&#x24CA;##1.5\uA\uB[css color:red]##&#x24C2;##\uC[css color:red]##&#x24C2;##
 |===
 
 [[sec-5.2.2]]
@@ -59,7 +59,7 @@ of the https://www.cax-if.eu/cax/cax_recommPractice.php[CAx-IF Recommended Pract
 |===
 a| [%unnumbered,height=50px]
 image::img30.png[]
-a| **<CF>**FCF\w&#x2313;\w0.4\wA\wB
+a| [css color:red]##<CF>##FCF\w&#x2313;\w0.4\wA\wB
 |===
 
 [[sec-5.3]]
@@ -86,7 +86,7 @@ brackets in a feature control frame.
 |===
 a| [%unnumbered]
 image::img31.png[]
-| FCF\w&#x2313;\w3.75\wD**[z,u,v]**\wE&#x24C2;**[x]\w**F**[y,w]**
+| FCF\w&#x2313;\w3.75\wD[css color:red]##[z,u,v]##\wE&#x24C2;[css color:red]##[x]\w##F[css color:red]##[y,w]##
 |===
 
 [[sec-5.3.2]]
@@ -103,15 +103,15 @@ required.
 |===
 a| [%unnumbered]
 image::img32.png[]
-| FCF\w&#x2313;\w4.5&#x24CA;1.5&#x24BB;\wA\wB**[BASIC]**\wC
+| FCF\w&#x2313;\w4.5&#x24CA;1.5&#x24BB;\wA\wB[css color:red]##[BASIC]##\wC
 
 a| [%unnumbered]
 image::img33.png[]
-| FCF\w&#x2313;\w4.5&#x24CA;1.5&#x24BB;\wA\wB**[BSC]**\wC
+| FCF\w&#x2313;\w4.5&#x24CA;1.5&#x24BB;\wA\wB[css color:red]##[BSC]##\wC
 
 a| [%unnumbered]
 image::img34.png[]
-| FCF\w&#x2313;\w4.5&#x24CA;1.5&#x24BB;\wA\wB**[**&#xD8;10.505**]**[\wC
+| FCF\w&#x2313;\w4.5&#x24CA;1.5&#x24BB;\wA\wB[css color:red]##[##&#xD8;10.505[css color:red]##]##[\wC
 |===
 
 [[sec-5.4]]
@@ -135,10 +135,10 @@ NOTE: A gap between symbols or text denotes a space as entered on a keyboard
 |===
 a| [%unnumbered,height=50px]
 image::img35.png[]
-| **TXT**\w6X\wDIM&#xD8;1.0
+| [css color:red]##TXT##\w6X\wDIM&#xD8;1.0
 a| [%unnumbered,height=70px]
 image::img36.png[]
-| FCF\w&#x23CA;\w0.5\wA\n**TXT**\wEACH ELEMENT
+| FCF\w&#x23CA;\w0.5\wA\n[css color:red]##TXT##\wEACH ELEMENT
 |===
 
 [[cls-5.4.2]]
@@ -152,7 +152,7 @@ below can be used in place of NOTE.
 [%unnumbered,cols=2]
 |===
 | UNLESS OTHERWISE SPECIFIED, ALL DIMENSIONS ARE IN MILLIMETERS
-| **NOTE**\wUNLESS OTHERWISE SPECIFIED, ALL DIMENSIONS ARE IN MILLIMETERS
+| [css color:red]##NOTE##\wUNLESS OTHERWISE SPECIFIED, ALL DIMENSIONS ARE IN MILLIMETERS
 |===
 
 [[sec-5.4.3]]
@@ -170,7 +170,7 @@ Keyword: BAL
 |===
 a| [%unnumbered,height=70px]
 image::img37.png[]
-| **BAL**12
+| [css color:red]##BAL##12
 |===
 
 [[sec-5.4.3.2]]
@@ -188,7 +188,7 @@ J=0.0000e +
 K=0.0000f +
 Label=g +
 Level=h
-a| **COR**\wx=100.0000a\ny=0.0000b\nz=100.0000c\nI=0.0000d\nJ=0.0000e\nK= +
+a| [css color:red]##COR##\wx=100.0000a\ny=0.0000b\nz=100.0000c\nI=0.0000d\nJ=0.0000e\nK= +
 0.0000f\nLabel=g\nLevel=h
 |===
 
@@ -208,7 +208,7 @@ Cypress, CA 90630
 Development Headquarters
 
 A1234
-| **ENT**\wSiemens PLM Software\n10824 Hope St.Cypress, CA 90630\nDevelopment Headquarters\nA1234
+| [css color:red]##ENT##\wSiemens PLM Software\n10824 Hope St.Cypress, CA 90630\nDevelopment Headquarters\nA1234
 |===
 
 [[sec-5.4.3.4]]
@@ -223,7 +223,7 @@ a| ABS (-1)
 Nomenclature Text
 
 Open Field Text
-| **MAT**\wABS (-1)\n Nomenclature Text\nOpen Field Text
+| [css color:red]##MAT##\wABS (-1)\n Nomenclature Text\nOpen Field Text
 |===
 
 [[sec-5.4.3.5]]
@@ -234,10 +234,10 @@ Keyword: PID
 [%unnumbered,cols=2]
 |===
 | WorkingPMIExample.prt (-) ASSEMBLY, f1 -- g2
-| **PID**\wWorkingPMIExample.prt (-) ASSEMBLY, f1 -- g2
+| [css color:red]##PID##\wWorkingPMIExample.prt (-) ASSEMBLY, f1 -- g2
 
 | WorkingPMIExample.prt (-) BEARING, f2
-| **PID**\wWorkingPMIExample.prt (-) BEARING, f2
+| [css color:red]##PID##\wWorkingPMIExample.prt (-) BEARING, f2
 |===
 
 [[sec-5.4.3.6]]
@@ -252,7 +252,7 @@ a| Chromium (-)
 CHROMIUM PLATE
 
 open
-| **PRO**\wChromium (-)\nCHROMIUM PLATE\nopen
+| [css color:red]##PRO##\wChromium (-)\nCHROMIUM PLATE\nopen
 |===
 
 [[sec-5.4.3.7]]
@@ -264,6 +264,6 @@ Keyword: LOC
 |===
 a| [%unnumbered,height=50px]
 image::img38.png[]
-a| **LOC**\wS\wX\wOSKCF\wWorkingPMIExample.prt +
+a| [css color:red]##LOC##\wS\wX\wOSKCF\wWorkingPMIExample.prt +
 \nNoteText HotSpot
 |===

@@ -22,26 +22,26 @@ The is always a compartment delimiter after a keyword.
 |===
 a| [%unnumbered,height=50px]
 image::img11.png[]
-a| DIM**\w**&#xD8;1.000 &#xB1;.005
+a| DIM[css color:red]##\w##&#xD8;1.000 &#xB1;.005
 
 a| [%unnumbered,height=40px]
 image::img12.png[]
-a| FCF**\w**&#x2316;**\w** 2.75**\w**A
+a| FCF[css color:red]##\w##&#x2316;[css color:red]##\w## 2.75[css color:red]##\w##A
 
 \w represents each frame in the feature control frame
 
 a| [%unnumbered,height=100px]
 image::img13.png[]
-a| FCF**\w**&#x2313;**\w**4.5**\w**A**\w**B**\w**C\n2.2**\w**A**\w**B
+a| FCF[css color:red]##\w##&#x2313;[css color:red]##\w##4.5[css color:red]##\w##A[css color:red]##\w##B[css color:red]##\w##C\n2.2[css color:red]##\w##A[css color:red]##\w##B
 
 a| [%unnumbered,height=150px]
 image::img15.png[]
-a| DIM**\w**&#xD8;79.4&#xB1;0.1\nFCF**\w**&#x2316;**\w**&#xD8;1.4&#x24C2;
-**\w**A**\w**B**\w**C\nDTM**\w**D**\w**TXT6X INDIVIDUALLY
+a| DIM[css color:red]##\w##&#xD8;79.4&#xB1;0.1\nFCF[css color:red]##\w##&#x2316;[css color:red]##\w##&#xD8;1.4&#x24C2;
+[css color:red]##\w##A[css color:red]##\w##B[css color:red]##\w##C\nDTM[css color:red]##\w##D[css color:red]##\w##TXT6X INDIVIDUALLY
 
 a| [%unnumbered,height=100px]
 image::img17.png[]
-a| DIM**\w**30 f7(\u29,980\n29,595\u)
+a| DIM[css color:red]##\w##30 f7(\u29,980\n29,595\u)
 |===
 
 [[sec-4.2]]
@@ -55,15 +55,15 @@ conjunction with \n. Each group must contain 2 \u delimiters. Groups can be nest
 |===
 a| [%unnumbered,height=100px]
 image::img18.png[]
-| DIM\w&#xD8;1.000**\u**+.005\n-.002**\u**
+| DIM\w&#xD8;1.000[css color:red]##\u##+.005\n-.002[css color:red]##\u##
 
 a| [%unnumbered,height=130px]
 image::img19.png[]
-| WLD\w\w**\u**G\n&#x2322;&#x2322;\n10°\n5\/**\u**\w**\u**\|/--**\u**
+| WLD\w\w[css color:red]##\u##G\n&#x2322;&#x2322;\n10°\n5\/[css color:red]##\u##\w[css color:red]##\u##\|/--[css color:red]##\u##
 
 a| [%unnumbered,height=70px]
 image::img20.png[]
-| SRFMRRN\w\w\wTURN\w**\u**0.8/Ra0.4**\u**\n**X\u**2.5/Rt 0.8**\u**
+| SRFMRRN\w\w\wTURN\w[css color:red]##\u##0.8/Ra0.4[css color:red]##\u##\n[css color:red]##X\u##2.5/Rt 0.8[css color:red]##\u##
 |===
 
 [[sec-4.3]]
@@ -86,15 +86,15 @@ superstring.
 |===
 a| [%unnumbered,height=50px]
 image::img21.png[]
-| DIM\w&#xD8;1.000\u+.005**\n**-.002
+| DIM\w&#xD8;1.000\u+.005[css color:red]##\n##-.002
 
 a| [%unnumbered,height=70px]
 image::img22.png[]
-| FCF\w&#x2313;\w4.5\wA\wB\wC**\n**2.2\wA\wB
+| FCF\w&#x2313;\w4.5\wA\wB\wC[css color:red]##\n##2.2\wA\wB
 
 a| [%unnumbered,height=100px]
 image::img23.png[]
-| DIM\w&#xD8;10.5&#xB1;0.3**\n**FCF\w&#x23CA;\w&#xF8;0&#x24C1;\wA**\n**DTM\wB
+| DIM\w&#xD8;10.5&#xB1;0.3[css color:red]##\n##FCF\w&#x23CA;\w&#xF8;0&#x24C1;\wA[css color:red]##\n##DTM\wB
 |===
 
 [[sec-4.4]]
@@ -109,11 +109,11 @@ individual strings.
 |===
 a| [%unnumbered,height=200px]
 image::img24.png[]
-a| DIM\w10X&#xD8;.281\u+.006\n-.001\u**\x**\n
+a| DIM\w10X&#xD8;.281\u+.006\n-.001\u[css color:red]##\x##\n
 
-DIM\w&#x21A7;2.25&#xB1;.03**\x**\n
+DIM\w&#x21A7;2.25&#xB1;.03[css color:red]##\x##\n
 
-FCF\w&#x2316;\w&#xD8;.025&#x24C2;\wA\wB\w\C**\x**\n
+FCF\w&#x2316;\w&#xD8;.025&#x24C2;\wA\wB\w\C[css color:red]##\x##\n
 
 TXT\wSIM REQT 1
 |===
@@ -134,7 +134,7 @@ shown in the second example.
 |===
 a| [%unnumbered,height=50px]
 image::img25.png[]
-| DIM\w11X **\v**360\n11**\v**
+| DIM\w11X [css color:red]##\v##360\n11[css color:red]##\v##
 
 a| [%unnumbered,height=50px]
 image::img26.png[]
