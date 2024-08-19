@@ -8,7 +8,7 @@
 :edition: 1.1
 :issued-date: 2019-03-25
 :toclevels: 3
-:mn-document-class: nist
+:mn-document-class: generic
 :fullname: Jochen Boy
 :affiliation: PROSTEP AG
 :address: Dolivostraße 11
@@ -56,6 +56,7 @@
 :language: en
 :imagesdir: images
 :mn-output-extensions: xml,html,pdf,rxl
+:customize: metanorma-config.yml
 
 include::sections/00-preface.adoc[]
 
@@ -65,7 +66,7 @@ include::sections/02-pilot-study.adoc[]
 
 include::sections/03-overview.adoc[]
 
-include::sections/04-test-case.adoc[]
+//include::sections/04-test-case.adoc[]
 
 include::sections/04-data-model.adoc[]
 
